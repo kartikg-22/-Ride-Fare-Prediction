@@ -22,7 +22,7 @@ This project aims to accurately predict ride fares for services like Uber and Ly
     - Mean Squared Error (MSE): **2.98**
     - Mean Absolute Error (MAE): **1.45**
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - **Languages & Libraries:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Sources:** Uber/Lyft ride data, Weather data (via APIs), Time-based derived features
